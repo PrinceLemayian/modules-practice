@@ -1,0 +1,23 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceLemayian/modules-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrinceLemayian/modules-practice/issues"
+  },
+  "homepage": "https://github.com/PrinceLemayian/modules-practice#readme",
+  "description": "",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lodash-es": "^4.18.1"
+  }
+}
